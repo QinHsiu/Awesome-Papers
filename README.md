@@ -1,2 +1,2 @@
-# Awesome-Papers
-# [Read Note](https://juejin.cn/column/7078628416018186253)
+### 本仓库主要用于记录读过的一些比较有意思的文章（主要包含推荐系统、图像处理、自然语言处理相关的文章）
+### 文章的阅读笔记参看[Read Note](https://juejin.cn/column/7078628416018186253)
