@@ -18,6 +18,7 @@
 
 ##### Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning WWW2022 [Paper](https://arxiv.org/abs/2202.06200v1) [Note](https://juejin.cn/post/7084769511680770084)
 
+##### Learning Recommenders for Implicit Feedback with Importance Resampling WWW2022 [Paper](https://zheng-kai.com/paper/www_2022_chen_b.pdf) [Note](https://juejin.cn/post/7185013958456115260)
 
 
 ### Click  Through Prediction
