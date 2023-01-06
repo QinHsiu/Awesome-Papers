@@ -20,6 +20,8 @@
 
 ##### Learning Recommenders for Implicit Feedback with Importance Resampling WWW2022 [Paper](https://zheng-kai.com/paper/www_2022_chen_b.pdf) [Note](https://juejin.cn/post/7185013958456115260)
 
+##### Autoencoder for recommendation [Paper](https://github.com/QinHsiu/Awesome-Papers/blob/main/Recsys/AE4Rec.pdf) [Note](https://juejin.cn/post/7185362166755622970)
+
 
 ### Click  Through Prediction
 
