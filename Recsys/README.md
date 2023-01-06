@@ -41,7 +41,7 @@
 
 ##### Learning Transferable User Representations with Sequential Behaviors via Contrastive Pre-training ICDM2021 [Paper](http://staff.ustc.edu.cn/~qiliuql/files/Publications/Mingyue-Cheng-ICDM21.pdf) [Note](https://juejin.cn/post/7091561156745101348)
 
-##### Pre-training for Recommender System [Note](https://juejin.cn/post/7089983151564390414)
+##### Pre-training for Recommender System [Paper](https://github.com/QinHsiu/Awesome-Papers/blob/main/Recsys/Pre_train4Rec.pdf) [Note](https://juejin.cn/post/7089983151564390414)
 
 
 
