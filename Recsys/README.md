@@ -22,6 +22,7 @@
 
 ##### Autoencoder for recommendation [Paper](https://github.com/QinHsiu/Awesome-Papers/blob/main/Recsys/AE4Rec.pdf) [Note](https://juejin.cn/post/7185362166755622970)
 
+##### AutoRec: Autoencoders Meet Collaborative Filtering WWWW2015 [Paper](http://users.cecs.anu.edu.au/~u5098633/papers/www15.pdf) [Note](https://juejin.cn/post/7185362166755622970)
 
 ### Click  Through Prediction
 
