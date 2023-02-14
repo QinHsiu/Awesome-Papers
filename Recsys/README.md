@@ -24,6 +24,12 @@
 
 ##### AutoRec: Autoencoders Meet Collaborative Filtering WWW2015 [Paper](http://users.cecs.anu.edu.au/~u5098633/papers/www15.pdf) [Note](https://juejin.cn/post/7185362166755622970)
 
+
+### Industrial Recommendation
+
+##### AutoFAS Automatic Feature and Architecture Selection for Pre-Ranking System KDD2022 [Paper](https://arxiv.org/abs/2205.09394) [Note](https://juejin.cn/post/7199818397222486075)
+
+
 ### Click  Through Prediction
 
 ##### MISS: Multi-Interest Self-Supervised Learning Framework for Click-Through Rate Prediction ICDE2022 [Paper](https://arxiv.org/pdf/2111.15068.pdf) [Note](https://juejin.cn/post/7086067497044017159)
