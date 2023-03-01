@@ -1,6 +1,6 @@
 ### Sequential Recommendation
 
-##### Self-Attentive Sequential Recommendation ICDM2018 [Paper](https://arxiv.org/abs/1808.09781) [Note](https://juejin.cn/post/7085261451618680869)
+- ##### Self-Attentive Sequential Recommendation ICDM2018 [Paper](https://arxiv.org/abs/1808.09781) [Note](https://juejin.cn/post/7085261451618680869)
 
 ##### Augmenting Sequential Recommendation with Pseudo-Prior Items via Reversely Pre-training Transformer SIGIR2021 [Paper](https://arxiv.org/abs/2105.00522) [Note](https://juejin.cn/post/7089793885207494687)
 
