@@ -1,0 +1,1 @@
+##### Dial2vec: Self-Guided Contrastive Learning of Unsupervised Dialogue Embeddings EMNLP2022 [Paper](https://arxiv.org/abs/2210.15332v1) [Note](https://juejin.cn/post/7184244058171113509)
