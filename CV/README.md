@@ -5,3 +5,5 @@
 ##### MetAug: Contrastive Learning via Meta Feature Augmentation ICML2022 [Paper](https://arxiv.org/abs/2203.05119) [Note](https://juejin.cn/post/7182797568681148477)
 
 ##### Automated Self-Supervised Learning for Graphs ICLR2022 [Paper](https://arxiv.org/abs/2106.05470) [Note](https://juejin.cn/post/7081164839837499399)
+
+##### Neighbor Contrastive Learning on Learnable Graph Augmentation AAAI2023 [Paper](https://arxiv.org/abs/2301.01404) [Note](https://juejin.cn/post/7222174980531191845)
