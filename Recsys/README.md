@@ -34,7 +34,7 @@
 
 - ##### MISS: Multi-Interest Self-Supervised Learning Framework for Click-Through Rate Prediction ICDE2022 [Paper](https://arxiv.org/pdf/2111.15068.pdf) [Note](https://juejin.cn/post/7086067497044017159)
 
-- ##### FinalMLP: An Enhanced Two-Stream MLP Model for CTR Prediction AAAI2023 [Note](https://juejin.cn/post/7223303364003807269)
+- ##### FinalMLP: An Enhanced Two-Stream MLP Model for CTR Prediction AAAI2023 [Paper](https://arxiv.org/pdf/2304.00902.pdf) [Note](https://juejin.cn/post/7223303364003807269)
 
 ### Knowledge Graph for Recommendation
 
