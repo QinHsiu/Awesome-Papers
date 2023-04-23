@@ -24,6 +24,7 @@
 
 - ##### AutoRec: Autoencoders Meet Collaborative Filtering WWW2015 [Paper](http://users.cecs.anu.edu.au/~u5098633/papers/www15.pdf) [Note](https://juejin.cn/post/7185362166755622970)
 
+- ##### ChatRec: Towards Interactive and Explainable LLMs-Augmented Recommender System Arxiv2023 [Paper](https://arxiv.org/pdf/2303.14524.pdf) [Note](https://juejin.cn/post/7224433107775848485)
 
 ### Industrial Recommendation
 
