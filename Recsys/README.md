@@ -10,6 +10,7 @@
 
   - ELECRec: Training Sequential Recommenders as Discriminators SIGIR2022 [Paper](https://arxiv.org/abs/2204.02011v1) [Note](https://juejin.cn/post/7091846259354370084)
 - 解读
+  - [SimHash-CIKM2022](https://mp.weixin.qq.com/s/eG4yQoyGIZdVxhCzvV1gGA)
   - [MoRec-SIGIR2023](https://mp.weixin.qq.com/s/3sErQw_95fKyZkL_LlAqhQ)
   - [dyMuS-AAAI2023](https://mp.weixin.qq.com/s/M8KV3TqA2QYjv2A-PBZEUA)
   - [Recformer-KDD2023](https://mp.weixin.qq.com/s/lEjN75p8AUbJ8ZIfVorSzA)
