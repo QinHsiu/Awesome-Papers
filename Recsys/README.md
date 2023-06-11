@@ -9,7 +9,15 @@
 - ##### Coarse-to-Fine Sparse Sequential Recommendation SIGIR2022 [Paper](https://arxiv.org/pdf/2204.01839.pdf) [Note](https://juejin.cn/post/7087748055637688351)
 
 - ##### ELECRec: Training Sequential Recommenders as Discriminators SIGIR2022 [Paper](https://arxiv.org/abs/2204.02011v1) [Note](https://juejin.cn/post/7091846259354370084)
-
+- 解读
+  - [MoRec-SIGIR2023](https://mp.weixin.qq.com/s/3sErQw_95fKyZkL_LlAqhQ)
+  - [dyMuS-AAAI2023](https://mp.weixin.qq.com/s/M8KV3TqA2QYjv2A-PBZEUA)
+  - [Recformer-KDD2023](https://mp.weixin.qq.com/s/lEjN75p8AUbJ8ZIfVorSzA)
+  - [序列建模1](https://mp.weixin.qq.com/s/wru3g3tJGmukqLyb5t_DGw) 
+  - [序列建模2](https://mp.weixin.qq.com/s/moecjDUl0CTmTAj-d7f57A) 
+  - [序列建模3](https://mp.weixin.qq.com/s/o04b8gN4TYecKHopXGMuVg)
+  - [序列建模4](https://mp.weixin.qq.com/s/Vf3A0Mi4jPIhL-d_JBjbfQ)
+  - [动态权重](https://mp.weixin.qq.com/s/gphLbCsimD3w-IoWtdz-pg)
 
 
 ### Collaborative Filtering
@@ -27,12 +35,15 @@
 - ##### ChatRec: Towards Interactive and Explainable LLMs-Augmented Recommender System Arxiv2023 [Paper](https://arxiv.org/pdf/2303.14524.pdf) [Note](https://juejin.cn/post/7224433107775848485)
 - ##### Contrastive Collaborative Filtering for Cold-Start Item Recommendation WWW2023 [paper](https://arxiv.org/pdf/2302.02151.pdf) [Note](https://juejin.cn/post/7230757380819255351)
 
-
+- 解读
+- [图推荐](https://mp.weixin.qq.com/s/BVNxbiHgo0T2vqNUi6RrGQ)
 
 ### Industrial Recommendation
 
 - ##### AutoFAS Automatic Feature and Architecture Selection for Pre-Ranking System KDD2022 [Paper](https://arxiv.org/abs/2205.09394) [Note](https://juejin.cn/post/7199818397222486075)
-
+- 解读
+  - [腾讯图神经网络+预先训练](https://mp.weixin.qq.com/s/IM6lixoTnnXXt_QDfOBMlQ)
+  - [华为预训练](https://mp.weixin.qq.com/s/bAT6Ai4gmN1LOAlTbTaP8A)
 
 ### Click  Through Prediction
 
@@ -40,11 +51,15 @@
 
 - ##### FinalMLP: An Enhanced Two-Stream MLP Model for CTR Prediction AAAI2023 [Paper](https://arxiv.org/pdf/2304.00902.pdf) [Note](https://juejin.cn/post/7223303364003807269)
 
+- 解读
+  - [特征交互用于排序](https://mp.weixin.qq.com/s/veJ2hz89a072zcXFhHRLsg)
+
 ### Knowledge Graph for Recommendation
 
 - ##### UGRec: Modeling Directed and Undirected Relations for Recommendation SIGIR2021 [Paper](https://arxiv.org/abs/2105.04183) [Note](https://juejin.cn/post/7080130623863521287)
 
-
+- 解读
+  - [EulerNet-SIGIR2023](https://mp.weixin.qq.com/s/88ELcRAmpomJ63nOAkkShQ)
 
 ### Pre-train Model for Recommendation
 
@@ -55,7 +70,11 @@
 - ##### Pre-training for Recommender System [Paper](https://github.com/QinHsiu/Awesome-Papers/blob/main/Recsys/Pre_train4Rec.pdf) [Note](https://juejin.cn/post/7089983151564390414)
 
 
-
 ### Conversation Recommendation
 
 - ##### C2-CRS: Coarse-to-Fine Contrastive Learning for Conversational Recommender System WSDM2022 [Paper](https://arxiv.org/abs/2201.02732) [Note](https://juejin.cn/post/7183131946208198717)
+
+### 其他
+- 解读
+  - [PNPloss](https://mp.weixin.qq.com/s/jFLHBxfvI0ZPWjcI6DE1Gw)
+
