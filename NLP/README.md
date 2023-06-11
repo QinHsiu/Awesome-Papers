@@ -4,3 +4,6 @@
   - [AutoCoT](https://mp.weixin.qq.com/s/9hnjmV-A8SE3_EzQeg85xA)
   - [LLM](https://mp.weixin.qq.com/s/nxbNueiW6TEdjsQItmnO9A)
   - [LLM + 多模态](https://mp.weixin.qq.com/s/Q8SITBzTxlrFDkUleVZHiw)
+  - [参数有效性](https://mp.weixin.qq.com/s/sOPxL_Lq4lg3tbIsmEoMuw)
+  - [重新思考transformer](https://mp.weixin.qq.com/s/UzxkuZOMWPPFJCgbk9TGwg)
+  - [百度-搜索召回调研](https://mp.weixin.qq.com/s/W2FA4VRX8oG8dUn6z8IQ2Q)
