@@ -10,3 +10,7 @@
   - Neighbor Contrastive Learning on Learnable Graph Augmentation AAAI2023 [Paper](https://arxiv.org/abs/2301.01404) [Note](https://juejin.cn/post/7222174980531191845)
 - 解读
   - [2022-top10自监督论文](https://mp.weixin.qq.com/s/AQIWt4deRGnRw3E6msRrig)
+  - [IPMT-NeurIPS2022](https://mp.weixin.qq.com/s/y9jKTWi6NTNe_-IhaxE6Mg)
+  - [VideMAE-NeurIPS2022](https://mp.weixin.qq.com/s/vrRrOFWHYWbjvFDvt5Bu7w)
+  - [CF-Vit-AAAI2023](https://mp.weixin.qq.com/s/J_wDSANS2DselnIUM5kR7w)
+  - [Mask2former](https://mp.weixin.qq.com/s/apb_oXHoymAmGZCRXU6MQQ)
