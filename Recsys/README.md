@@ -77,4 +77,6 @@
   - None
 - 解读
   - [PNPloss](https://mp.weixin.qq.com/s/jFLHBxfvI0ZPWjcI6DE1Gw)
+  - [负样本](https://mp.weixin.qq.com/s/1ZbafJzx8BSCFwrVp05ngg)
+  - [负样本](https://mp.weixin.qq.com/s/MnjeuieYjrtRP_zPT2oM9A)
 
