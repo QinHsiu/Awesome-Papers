@@ -12,5 +12,6 @@
   - [2022-top10自监督论文](https://mp.weixin.qq.com/s/AQIWt4deRGnRw3E6msRrig)
   - [IPMT-NeurIPS2022](https://mp.weixin.qq.com/s/y9jKTWi6NTNe_-IhaxE6Mg)
   - [VideMAE-NeurIPS2022](https://mp.weixin.qq.com/s/vrRrOFWHYWbjvFDvt5Bu7w)
+  - [Graph-Vit/MLP-Mixer-ICML2023](https://mp.weixin.qq.com/s/3NmnJ6Cmw834Wz55HenFfw)
   - [CF-Vit-AAAI2023](https://mp.weixin.qq.com/s/J_wDSANS2DselnIUM5kR7w)
   - [Mask2former](https://mp.weixin.qq.com/s/apb_oXHoymAmGZCRXU6MQQ)
