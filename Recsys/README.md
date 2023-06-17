@@ -1,3 +1,6 @@
+- Survey
+  - Contrastive Self-supervised Learning in Recommender Systems: A Survey [Paper](https://arxiv.org/abs/2303.09902)
+
 - Sequential Recommendation
 - 论文
   - Self-Attentive Sequential Recommendation ICDM2018 [Paper](https://arxiv.org/abs/1808.09781) [Note](https://juejin.cn/post/7085261451618680869)
