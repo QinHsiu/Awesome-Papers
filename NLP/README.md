@@ -1,6 +1,6 @@
 - 论文
   - Dial2vec: Self-Guided Contrastive Learning of Unsupervised Dialogue Embeddings EMNLP2022 [Paper](https://arxiv.org/abs/2210.15332v1) [Note](https://juejin.cn/post/7184244058171113509)
-  - [[Arxiv23]Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/abs/2305.02301)
+  - [[Distill][Arxiv23]Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/abs/2305.02301)
   - 
 - 解读
   - [AutoCoT](https://mp.weixin.qq.com/s/9hnjmV-A8SE3_EzQeg85xA)
