@@ -15,6 +15,23 @@
   - [[Pythia][Arxiv 23]Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/abs/2304.01373)
   - [[SelfDebug][Arxiv 23]Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128)
 
+- Pretrain
+  - [[AdaptBERT][PMLR 19]Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/abs/1902.00751)
+  - [[TER][ACL 21]Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190)
+  - [[TransTailor][AAAI 21]TransTailor: Pruning the Pre-trained Model for Improved Transfer Learning](https://arxiv.org/abs/2103.01542)
+  - [[WSC][EMNLP 21]The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691)
+  - [[GLUE][EMNLP 21]Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning](https://arxiv.org/abs/2109.05687)
+  - [[LM][ACL 22]Cutting Down on Prompts and Parameters: Simple Few-Shot Learning with Language Models](https://arxiv.org/abs/2106.13353)
+  - [[LoRA][ICLR 22]LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
+  - [[ptuning][ACL 22]P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks](https://arxiv.org/abs/2110.07602)
+  - [[BitFit][ACL 22]BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models](https://arxiv.org/abs/2106.10199)
+  - [[PPT][ACL 22]PPT: Pre-trained Prompt Tuning for Few-shot Learning](https://arxiv.org/abs/2109.04332)
+  - [[unify][ICLR 22]TOWARDS A UNIFIED VIEW OF PARAMETER-EFFICIENT TRANSFER LEARNING](https://arxiv.org/abs/2110.04366)
+  - [[LMaas][ICML 22]Black-Box Tuning for Language-Model-as-a-Service](https://arxiv.org/abs/2201.03514)
+  - [[STEP][KDD 22]Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting](https://arxiv.org/abs/2206.09113)
+  
+
+
 - 解读
   - [AutoCoT](https://mp.weixin.qq.com/s/9hnjmV-A8SE3_EzQeg85xA)
   - [Prompt](https://mp.weixin.qq.com/s/g1NKoqUhrtwgstDM0GoGxA)
