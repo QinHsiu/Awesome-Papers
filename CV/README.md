@@ -37,7 +37,16 @@
   - [[Distill GNN][WSDM  23]Learning to Distill Graph Neural Networks](http://shichuan.org/doc/144.pdf)
   - [[Unidiffuser][ICML 23]One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale](https://arxiv.org/abs/2303.06555)
 
-
+- Mixup
+  - [[MixUP][ICLR 18]mixup: BEYOND EMPIRICAL RISK MINIMIZATION](https://arxiv.org/abs/1710.09412)
+  - [[CutMix][ICCV 19]CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features](https://arxiv.org/abs/1905.04899)
+  - [[MainfoldMixup][ICML 19]Manifold Mixup: Better Representations by Interpolating Hidden States](https://arxiv.org/abs/1806.05236)
+  - [[CoMixup][ICLR 21]Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity](https://arxiv.org/abs/2102.03065)
+  - [[SaliencyMix][ICLR 21]SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization](https://arxiv.org/abs/2006.01791)
+  - [[StyleMix][CVPR 21]StyleMix: Separating Content and Style for Enhanced Data Augmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_StyleMix_Separating_Content_and_Style_for_Enhanced_Data_Augmentation_CVPR_2021_paper.pdf)
+  - [[SuperMix][CVPR 21]SuperMix: Supervising the Mixing Data Augmentation](https://arxiv.org/abs/2003.05034)
+  - [[AlignMixup][CVPR 22]AlignMix: Improving representation by interpolating aligned features](https://arxiv.org/abs/2103.15375)
+  - [[TokenMixup][NeurIPS 22]TokenMixup: Efficient Attention-guided Token-level Data Augmentation for Transformers](https://arxiv.org/abs/2210.07562)
     
 - 解读
   - [2022-top10自监督论文](https://mp.weixin.qq.com/s/AQIWt4deRGnRw3E6msRrig)
