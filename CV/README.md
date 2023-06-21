@@ -15,6 +15,7 @@
   - Neighbor Contrastive Learning on Learnable Graph Augmentation AAAI2023 [Paper](https://arxiv.org/abs/2301.01404) [Note](https://juejin.cn/post/7222174980531191845)
   - [[ALBEF][NeurIPS 21]Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/abs/2107.07651)
   - [[Rethink Trm][ICML 21]Synthesizer: Rethinking Self-Attention in Transformer Models](https://arxiv.org/abs/2005.00743)
+  - [[DynamicVit][NeurIPS 21]DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification](https://proceedings.neurips.cc/paper/2021/hash/747d3443e319a22747fbb873e8b2f9f2-Abstract.html)
 
   - [[FFCLIP][NeurIPS 22]One Model to Edit Them All: Free-Form Text-Driven Image Manipulation with Semantic Modulations](https://arxiv.org/abs/2210.07883)
   - [[CFViT][AAAI 22]CF-ViT: A General Coarse-to-Fine Method for Vision Transformer](https://arxiv.org/abs/2203.03821)
@@ -24,6 +25,8 @@
   - [[IPMT][NeurIPS 22]Intermediate Prototype Mining Transformer for Few-Shot Semantic Segmentation](https://arxiv.org/abs/2210.06780)
   - [[Trm后剪枝][NeurIPS 22]A Fast Post-Training Pruning Framework for Transformers](https://arxiv.org/abs/2204.09656)
   - [[DataDistill][NeurIPS 22]Dataset Distillation via Factorization](https://arxiv.org/abs/2210.16774)
+  - [[RVSA][TGRS 22]Advancing Plain Vision Transformer Towards Remote Sensing Foundation Model](https://arxiv.org/abs/2208.03987)
+  - [[OnDeviceTraining][NeurIPS 22]On-Device Training Under 256KB Memory](https://arxiv.org/abs/2206.15472)
 
   - [[BLIP][Arxiv 23]InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/abs/2305.06500)
   - [[IRB][Arxiv 23]Rethinking Mobile Block for Efficient Neural Models](https://arxiv.org/abs/2301.01146)
