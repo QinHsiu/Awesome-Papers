@@ -3,4 +3,16 @@
 - [[CML][SIGIR 19]Improving Collaborative Metric Learning with Efficient Negative Sampling](https://arxiv.org/pdf/1909.10912.pdf)
 - [[CBNS][SIGIR 21]Cross-Batch Negative Sampling for Training Two-Tower Recommenders](https://arxiv.org/abs/2110.15154)
 - [[CML][ICDMW 21]Confident Collaborative Metric Learning]
+- [[FPAdaMetric][AAAI 22]FPAdaMetric: False-positive-aware Adaptive Metric Learning for Session-based Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/20321)
+- [[VaSCL][ACL 22]Virtual Augmentation Supported Contrastive Learning of Sentence Representations](https://arxiv.org/abs/2110.08552)
+- [[WaveMLP][CVPR 22]An Image Patch is a Wave: Phase-Aware Vision MLP](https://arxiv.org/abs/2111.12294)
+- [[IFND][ICLR 22]Incremental False Negative Detection for Contrastive Learning](https://arxiv.org/abs/2106.03719)
+- [[MIND][SIGIR 22]Positive, Negative and Neutral: Modeling Implicit Feedback in Session-based News Recommendation](https://arxiv.org/abs/2205.06058)
+- [[GenNi][Arxiv 22]Generating Negative Samples for Sequential Recommendation](https://arxiv.org/abs/2208.03645)
+- [[BCE][Arxiv 22]Effective and Efficient Training for Sequential Recommendation Using Cumulative Cross-Entropy Loss](https://arxiv.org/abs/2301.00979)
+- [[UFNRec][Arxiv 22]UFNRec: Utilizing False Negative Samples for Sequential Recommendation](https://arxiv.org/abs/2208.04116)
+- [[UnReeMix][Arxiv 22]Hard Negative Sampling Strategies for Contrastive Representation Learning](https://arxiv.org/abs/2206.01197)
+- [[CGC][WWW 23]Generating Counterfactual Hard Negative Samples for Graph Contrastive Learning](https://arxiv.org/abs/2207.00148)
+- [[CoRR][WWW 23]Cooperative Retriever and Ranker in Deep Recommenders](https://arxiv.org/abs/2206.14649)
+
   
