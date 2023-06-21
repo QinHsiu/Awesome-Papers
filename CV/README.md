@@ -13,9 +13,15 @@
   - Automated Self-Supervised Learning for Graphs ICLR2022 [Paper](https://arxiv.org/abs/2106.05470) [Note](https://juejin.cn/post/7081164839837499399)
 
   - Neighbor Contrastive Learning on Learnable Graph Augmentation AAAI2023 [Paper](https://arxiv.org/abs/2301.01404) [Note](https://juejin.cn/post/7222174980531191845)
+
+  - [[DCL][NeurIPS 20]Debiased Contrastive Learning](https://proceedings.neurips.cc/paper/2020/hash/63c3ddcc7b23daa1e42dc41f9a44a873-Abstract.html)
+
   - [[ALBEF][NeurIPS 21]Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/abs/2107.07651)
   - [[Rethink Trm][ICML 21]Synthesizer: Rethinking Self-Attention in Transformer Models](https://arxiv.org/abs/2005.00743)
   - [[DynamicVit][NeurIPS 21]DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification](https://proceedings.neurips.cc/paper/2021/hash/747d3443e319a22747fbb873e8b2f9f2-Abstract.html)
+  - [[CL][CVPR 21]Understanding the Behaviour of Contrastive Loss](https://arxiv.org/abs/2012.09740)
+  - [[Co2][ICLR 21]CO2: Consistent Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/2010.02217)
+  - 
 
   - [[FFCLIP][NeurIPS 22]One Model to Edit Them All: Free-Form Text-Driven Image Manipulation with Semantic Modulations](https://arxiv.org/abs/2210.07883)
   - [[CFViT][AAAI 22]CF-ViT: A General Coarse-to-Fine Method for Vision Transformer](https://arxiv.org/abs/2203.03821)
@@ -27,6 +33,15 @@
   - [[DataDistill][NeurIPS 22]Dataset Distillation via Factorization](https://arxiv.org/abs/2210.16774)
   - [[RVSA][TGRS 22]Advancing Plain Vision Transformer Towards Remote Sensing Foundation Model](https://arxiv.org/abs/2208.03987)
   - [[OnDeviceTraining][NeurIPS 22]On-Device Training Under 256KB Memory](https://arxiv.org/abs/2206.15472)
+  - [[ColloSSL][IMWUT 22]ColloSSL: Collaborative Self-Supervised Learning for Human Activity Recognition](https://arxiv.org/abs/2202.00758)
+  - [[TriBYOL][ICASSP 22]TriBYOL: Triplet BYOL for Self-Supervised Representation Learning](https://arxiv.org/abs/2206.03012)
+  - [[LoRoT][ECCV 22]Tailoring Self-Supervision for Supervised Learning](https://arxiv.org/abs/2207.10023)
+  - [[MakeFeat][CVPR 22]Masked Feature Prediction for Self-Supervised Visual Pre-Training](https://arxiv.org/abs/2112.09133)
+  - [[VICReg][ICLR 22]VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning](https://arxiv.org/abs/2105.04906)
+  - [[RoSA][IJCAI 22]RoSA: A Robust Self-Aligned Framework for Node-Node Graph Contrastive Learning](https://arxiv.org/abs/2204.13846)
+  - [[X-CLIP][MM 22]X-CLIP: End-to-End Multi-grained Contrastive Learning for Video-Text Retrieval](https://arxiv.org/abs/2207.07285)
+  - [[GAME][NeurIPS 22]Revisiting Graph Contrastive Learning from the Perspective of Graph Spectrum](https://arxiv.org/abs/2210.02330)
+  - 
 
   - [[BLIP][Arxiv 23]InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/abs/2305.06500)
   - [[IRB][Arxiv 23]Rethinking Mobile Block for Efficient Neural Models](https://arxiv.org/abs/2301.01146)
