@@ -11,3 +11,4 @@
 - 知识图谱：[链接](https://mp.weixin.qq.com/s/rhhaUAurgjHpF822XNo6zw)
 - 参数搜索：[链接](https://mp.weixin.qq.com/s/tCWfWykVHCpadQ3ApRmduA)
 - 微调范式：[链接](https://mp.weixin.qq.com/s/J_1Zi9rMcMqK9Nx1-4ksaA)
+- 图解GRU：[链接](https://mp.weixin.qq.com/s/WO-EBv4lCz5uKZMYU9nwAw)
