@@ -4,6 +4,7 @@
 - [[MQTTS][AAAI 23]A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech](https://arxiv.org/abs/2302.04215)
 - [[VoiceBox][Arxiv 23]Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale](https://arxiv.org/abs/2306.15687)
 - [[MusicGen][Arxiv 23]Simple and Controllable Music Generation](https://arxiv.org/abs/2306.05284)
+- [[AudioPaLM][Arxiv 23]AudioPaLM: A Large Language Model That Can Speak and Listen](https://arxiv.org/pdf/2306.12925.pdf)
 - Zero Shot
   - [[PromptTTS][Arxiv 22]PromptTTS: Controllable Text-to-Speech with Text Descriptions](https://arxiv.org/abs/2211.12171)
   - [[WaveGAN][InterSpeech 22]Glow-WaveGAN 2: High-quality Zero-shot Text-to-speech Synthesis and Any-to-any Voice Conversion](https://arxiv.org/abs/2207.01832)
