@@ -2,6 +2,7 @@
 ### 文章的阅读笔记参看[Read Note](https://juejin.cn/column/7078628416018186253)
 ### 其他资源
 - 大模型与知识图谱：[链接](https://arxiv.org/pdf/2306.08302.pdf) [解读](https://mp.weixin.qq.com/s/tk2CEZQpo5v5PiI3i_OCYw)
+- 多模态：[链接](https://mp.weixin.qq.com/s/m4s_oV7_MbFgUkTx2ADD-A)
 - 对比学习综述：[链接](https://mp.weixin.qq.com/s/6jybGPvJR74Dc3rNAqXhZw)
 - 从chatGpt看多模态：[链接](https://mp.weixin.qq.com/s/FUXD4etEiqtk9G8U9NNbyg)
 - 工业界图神经网络推荐系统：[链接](https://mp.weixin.qq.com/s/BVNxbiHgo0T2vqNUi6RrGQ)
