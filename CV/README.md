@@ -55,6 +55,7 @@
   - [[TryOnDiffusion][CVPR 23]TryOnDiffusion: A Tale of Two UNets](https://arxiv.org/abs/2306.08276)
   - [[SDT][CVPR 23]Disentangling Writer and Character Styles for Handwriting Generation](https://arxiv.org/abs/2303.14736)
   - [[DETR][CVPR 23]Siamese DETR](https://arxiv.org/abs/2303.18144)
+  - [[CrossKD][CVPR 23]CrossKD: Cross-Head Knowledge Distillation for Dense Object Detection](https://arxiv.org/pdf/2306.11369.pdf)
   - [[DataGenerate][Arxiv 23]Regeneration Learning: A Learning Paradigm for Data Generation](https://arxiv.org/abs/2301.08846)
   - [[Dropout][ICML 23]Dropout Reduces Underfitting](https://arxiv.org/abs/2303.01500)
   - [[advDM][ICML 23]Adversarial Example Does Good: Preventing Painting Imitation from Diffusion Models via Adversarial Examples](https://arxiv.org/abs/2302.04578)
