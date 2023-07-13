@@ -14,7 +14,12 @@
   - [[OpenAGI][Arxiv 23]OpenAGI: When LLM Meets Domain Experts](https://arxiv.org/abs/2304.04370)
   - [[Pythia][Arxiv 23]Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/abs/2304.01373)
   - [[SelfDebug][Arxiv 23]Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128)
+  - [[LLM Survey][Arxiv 23]A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549)
 
+- 量化
+  - [[Int4][Arxiv 23]Training Transformers with 4-bit Integers](https://arxiv.org/pdf/2306.11987.pdf)
+  - [[Int8]](https://mp.weixin.qq.com/s/_JirS9knfTlta0qOzo3i6A)
+    
 - Pretrain
   - [[AdaptBERT][PMLR 19]Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/abs/1902.00751)
   - [[TER][ACL 21]Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190)
@@ -30,7 +35,9 @@
   - [[LMaas][ICML 22]Black-Box Tuning for Language-Model-as-a-Service](https://arxiv.org/abs/2201.03514)
   - [[STEP][KDD 22]Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting](https://arxiv.org/abs/2206.09113)
   
-
+- LLM训练优化
+    - [[LAWA][Arxiv 23]Understanding the Effectiveness of Early Weight Averaging for Training Large Language Models](https://arxiv.org/pdf/2306.03241.pdf)
+    - [[LOMO][Arxiv 23]Full Parameter Fine-tuning for Large Language Models with Limited Resources](https://arxiv.org/abs/2306.09782)
 
 - 解读
   - [AutoCoT](https://mp.weixin.qq.com/s/9hnjmV-A8SE3_EzQeg85xA)
