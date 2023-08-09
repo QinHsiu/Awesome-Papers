@@ -39,7 +39,8 @@
     - [[LAWA][Arxiv 23]Understanding the Effectiveness of Early Weight Averaging for Training Large Language Models](https://arxiv.org/pdf/2306.03241.pdf)
     - [[LOMO][Arxiv 23]Full Parameter Fine-tuning for Large Language Models with Limited Resources](https://arxiv.org/abs/2306.09782)
     - [[LongNet][Arxiv 23]LONGNET: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/pdf/2307.02486.pdf)
-
+- 评估
+    - [[InstructBLIP][Arxi 23]Evaluating Object Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2305.10355) [Code](https://github.com/RUCAIBox/POPE)
 - 解读
   - [AutoCoT](https://mp.weixin.qq.com/s/9hnjmV-A8SE3_EzQeg85xA)
   - [Prompt](https://mp.weixin.qq.com/s/g1NKoqUhrtwgstDM0GoGxA)
