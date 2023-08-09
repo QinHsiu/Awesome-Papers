@@ -13,4 +13,5 @@
 - [[SimKD][CVPR 22]Knowledge Distillation with the Reused Teacher Classifi](https://arxiv.org/abs/2203.14001)
 - [[BiCAT][Arxiv 22]Self-Knowledge Distillation with Bidirectional Chronological Augmentation of Transformer for Sequential Recommendation](https://arxiv.org/abs/2112.06460)
 - [[CoBERT][ICASSP 23]CoBERT: SELF-SUPERVISED SPEECH REPRESENTATION LEARNING THROUGH CODE REPRESENTATION LEARNING](https://arxiv.org/abs/2210.04062)
+- [[DPK][WSDM 23]Learning to Distill Graph Neural Networks](http://www.shichuan.org/doc/144.pdf)
   
