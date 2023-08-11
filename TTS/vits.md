@@ -1,5 +1,6 @@
 TTS_vits
 记录一些关于在vits模型上进行改进的TTS模型，包括论文方法解读、代码资源等；
+
 21年以及之前的文章
 《Efficient Neural Audio Synthesis》 ICML2018
 使用单层RNN搭配softmax来合成语音，其创新点主要有以下几点
@@ -9,11 +10,12 @@ TTS_vits
 2.采用了权重剪枝的技术，实现了96%的稀疏性；
   随机初始化一个矩阵，每训练一定的steps就将矩阵中最小的k个元素置换为0.，k可以是动态的（递增的），也可以是预先设置好的；
 3.高并行度生成语音算法，把很长的序列生成折叠成若干个短的序列，每一个短序列同时生成，提高长序列的生成速度；
-[图片]
 对于给定的128bit的数据，可以看作[1,2,...,128]，现在将其调整为[8*16]大小的矩阵，数据从下往上，从左至右依次排列，现在可以达到一个下降采样的策略，其首先生成的是最下面的数据[1,9,17,...]，在生成37、76、107的时候可以实现并行，最后将生成的数据变换为原始大小，也即实现了高度并行快速生成语音的目的；
+
 论文：https://arxiv.org/pdf/1802.08435.pdf
 code：https://github.com/fatchord/WaveRNN
 学习资料：https://www.jianshu.com/p/b3019f2773ed
+
 S《Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis》ICML2018
 1.引入一个reference encoder来学习具体的style embedding，在inference阶段直接使用训练好的reference encoder编码音频并将得出的style embedding加入到下游任务中，这里有几个问题：
   style embedding的shape是不是预先定义的，也就是style的风格数目是不是一开始就确定了（这里如果事先确定可以不可以使用k-mens聚类来学习具体的style embedding）？
