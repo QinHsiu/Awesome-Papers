@@ -65,6 +65,7 @@
   - [[MLPinit][ICLR 23]MLPINIT: EMBARRASSINGLY SIMPLE GNN TRAIN- ING ACCELERATION WITH MLP INITIALIZATION](https://arxiv.org/abs/2210.00102)
   - [[Distill GNN][WSDM  23]Learning to Distill Graph Neural Networks](http://shichuan.org/doc/144.pdf)
   - [[Unidiffuser][ICML 23]One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale](https://arxiv.org/abs/2303.06555)
+  - [[ZeroSeg][Arxiv 23]](https://mp.weixin.qq.com/s/jldbJkJxsC79enM19BvszQ)
 
 - Mixup
   - [[MixUP][ICLR 18]mixup: BEYOND EMPIRICAL RISK MINIMIZATION](https://arxiv.org/abs/1710.09412)
