@@ -1,34 +1,34 @@
-TTS_vits
-记录一些关于在vits模型上进行改进的TTS模型，包括论文方法解读、代码资源等；
+## TTS_vits
+##### 记录一些关于在vits模型上进行改进的TTS模型，包括论文方法解读、代码资源等；
 
-21年以及之前的文章
-《Efficient Neural Audio Synthesis》 ICML2018
-使用单层RNN搭配softmax来合成语音，其创新点主要有以下几点
-1.提出使用单层RNN的网络架构，使用了双层softmax，可以实时生成24k 16bit的语音；
-  这里将原始输出看作两部分，高字节（细粒度的）和低字节（粗粒度的），给定前一时刻的粗粒度的表示$$c_{t-1}$$和细粒度表示$$f_{t-1}$$，使用公式得到下一个时刻的粗粒度的表示$$c_{t}$$，然后使用这三个数据作为输入生成下一个时刻的细粒度的表示$$c_{t}$$，这里可以使用的表达式如下：
+- 21年以及之前的文章
+  -《Efficient Neural Audio Synthesis》 ICML2018
+  - 使用单层RNN搭配softmax来合成语音，其创新点主要有以下几点
+  - 1.提出使用单层RNN的网络架构，使用了双层softmax，可以实时生成24k 16bit的语音；
+  - 这里将原始输出看作两部分，高字节（细粒度的）和低字节（粗粒度的），给定前一时刻的粗粒度的表示$$c_{t-1}$$和细粒度表示$$f_{t-1}$$，使用公式得到下一个时刻的粗粒度的表示$$c_{t}$$，然后使用这三个数据作为输入生成下一个时刻的细粒度的表示$$c_{t}$$，这里可以使用的表达式如下：
   $$p(c_{t})=f_{c}(c_{t-1},f_{t-1}),p(f_{t})=f_{f}(c_{t-1},f_{t-1},c_{t})$$
-2.采用了权重剪枝的技术，实现了96%的稀疏性；
+  - 2.采用了权重剪枝的技术，实现了96%的稀疏性；
   随机初始化一个矩阵，每训练一定的steps就将矩阵中最小的k个元素置换为0.，k可以是动态的（递增的），也可以是预先设置好的；
-3.高并行度生成语音算法，把很长的序列生成折叠成若干个短的序列，每一个短序列同时生成，提高长序列的生成速度；
+  - 3.高并行度生成语音算法，把很长的序列生成折叠成若干个短的序列，每一个短序列同时生成，提高长序列的生成速度；
 对于给定的128bit的数据，可以看作[1,2,...,128]，现在将其调整为[8*16]大小的矩阵，数据从下往上，从左至右依次排列，现在可以达到一个下降采样的策略，其首先生成的是最下面的数据[1,9,17,...]，在生成37、76、107的时候可以实现并行，最后将生成的数据变换为原始大小，也即实现了高度并行快速生成语音的目的；
 
-论文：https://arxiv.org/pdf/1802.08435.pdf
-code：https://github.com/fatchord/WaveRNN
-学习资料：https://www.jianshu.com/p/b3019f2773ed
+  - 论文：https://arxiv.org/pdf/1802.08435.pdf
+  - code：https://github.com/fatchord/WaveRNN
+  - 学习资料：https://www.jianshu.com/p/b3019f2773ed
 
-S《Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis》ICML2018
-1.引入一个reference encoder来学习具体的style embedding，在inference阶段直接使用训练好的reference encoder编码音频并将得出的style embedding加入到下游任务中，这里有几个问题：
-  style embedding的shape是不是预先定义的，也就是style的风格数目是不是一开始就确定了（这里如果事先确定可以不可以使用k-mens聚类来学习具体的style embedding）？
-  ps：这里的style embedding最后作为下游任务中attention的query融入到模型中，这里的style是从训练数据中提取出来的，其风格数目一开始就确定了；这里的reference encoder使用的是CNN+GRU，STL使用的是multi-head self-attention，一个GST=》一个reference encoder+一个STL模型（多头注意力模型）；
+-《Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis》ICML2018
+  - 1.引入一个reference encoder来学习具体的style embedding，在inference阶段直接使用训练好的reference encoder编码音频并将得出的style embedding加入到下游任务中，这里有几个问题：
+    - style embedding的shape是不是预先定义的，也就是style的风格数目是不是一开始就确定了（这里如果事先确定可以不可以使用k-mens聚类来学习具体的style embedding）？
+    - ps：这里的style embedding最后作为下游任务中attention的query融入到模型中，这里的style是从训练数据中提取出来的，其风格数目一开始就确定了；这里的reference encoder使用的是CNN+GRU，STL使用的是multi-head self-attention，一个GST=》一个reference encoder+一个STL模型（多头注意力模型）；
   $$Attention(Q,K,V)=softmax(\frac{Q\cdot K^{T}}{\sqrt{d/h}})\cdot V$$，transformer中encoder 和decoder连接部分是将ecoder的输出中的key和value传递到decoder中，然后与decoder中第一个block中的value进行上式计算获得；
-  2.改进思路：
-  0.将注意力得分哪里就是计算具体的style类型哪里是不是可以替换为无监督聚类，直接使用聚类中心表示具体的风格类型；
-  1.是否可以引入对比学习，让学到的模型见到多种多样的embedding表示；
-[图片]
-论文：https://arxiv.org/pdf/1803.09017.pdf
-code：https://github.com/KinglittleQ/GST-Tacotron
-学习资料：https://zhuanlan.zhihu.com/p/380487271
-《One-shot Voice Conversion by Separating Speaker and Content Representations with Instance Normalization》InterSpeech 2019
+    - 2.改进思路：
+    - 0).将注意力得分哪里就是计算具体的style类型哪里是不是可以替换为无监督聚类，直接使用聚类中心表示具体的风格类型；
+    - 1).是否可以引入对比学习，让学到的模型见到多种多样的embedding表示；
+
+    - 论文：https://arxiv.org/pdf/1803.09017.pdf
+    - code：https://github.com/KinglittleQ/GST-Tacotron
+    - 学习资料：https://zhuanlan.zhihu.com/p/380487271
+- 《One-shot Voice Conversion by Separating Speaker and Content Representations with Instance Normalization》InterSpeech 2019
 [图片]
 该论文目标是解决并行语料带来的两个问题：
   （1）训练数据要求较为严格（并行数据）；
