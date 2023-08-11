@@ -17,3 +17,5 @@
 - Few Shot
   - [[HierSpeech][NeurIPS 22]HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis](https://openreview.net/pdf?id=awdyRVnfQKX)
   - [[DSPGAN][ICASSP 23]DSPGAN: A GAN-BASED UNIVERSAL VOCODER FOR HIGH-FIDELITY TTS BY TIME-FREQUENCY DOMAIN SUPERVISION FROM DSP](https://arxiv.org/abs/2211.01087)
+-  [vits](https://github.com/QinHsiu/Awesome-Papers/edit/main/TTS/vits.md)
+  
