@@ -84,3 +84,4 @@
   - [Graph-Vit/MLP-Mixer-ICML2023](https://mp.weixin.qq.com/s/3NmnJ6Cmw834Wz55HenFfw)
   - [CF-Vit-AAAI2023](https://mp.weixin.qq.com/s/J_wDSANS2DselnIUM5kR7w)
   - [Mask2former](https://mp.weixin.qq.com/s/apb_oXHoymAmGZCRXU6MQQ)
+  - [EMP-SSL](https://mp.weixin.qq.com/s/zaltgHDnv0lmvF-nEydGeA)
