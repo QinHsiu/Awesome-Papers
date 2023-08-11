@@ -254,7 +254,7 @@
   - demo：https://xcmyz.github.io/CLONE/
 
 ### 其他资源
-- 端到端TTS模型
+- 端到端TTS模型: https://github.com/keonlee9420/Comprehensive-E2E-TTS
 - TTSPaper：https://github.com/RevoSpeechTech/audio-generation-papers
 - LM Audio：https://github.com/liusongxiang/Large-Audio-Models
 - New TTS: https://github.com/wenet-e2e/speech-synthesis-paper
