@@ -69,6 +69,7 @@
   - U-BERT: Pre-training User Representations for Improved Recommendation AAAI2021 [Paper](https://www.aaai.org/AAAI21Papers/AAAI-2116.QiuZ.pdf) [Note](https://juejin.cn/post/7080354866509381669)
   - Learning Transferable User Representations with Sequential Behaviors via Contrastive Pre-training ICDM2021 [Paper](http://staff.ustc.edu.cn/~qiliuql/files/Publications/Mingyue-Cheng-ICDM21.pdf) [Note](https://juejin.cn/post/7091561156745101348)
   - Pre-training for Recommender System [Paper](https://github.com/QinHsiu/Awesome-Papers/blob/main/Recsys/Pre_train4Rec.pdf) [Note](https://juejin.cn/post/7089983151564390414)
+    
 
 
 - Conversation Recommendation
@@ -85,4 +86,5 @@
   - [Embedding](https://mp.weixin.qq.com/s/1okrVM8zXekCXlCrmhQ9lQ)
   - [推荐中的偏差](https://mp.weixin.qq.com/s/e8Axw70TaoDeqlYgbTua8g)
   - [图对比学习用于推荐](https://mp.weixin.qq.com/s/Cb7nIOjPwZvELXeQ0WfxPw)
+  - [prompt for Rec](https://dl.acm.org/doi/10.1145/3539618.3591750)
 
