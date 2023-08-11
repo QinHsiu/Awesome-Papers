@@ -85,4 +85,6 @@
   - [CF-Vit-AAAI2023](https://mp.weixin.qq.com/s/J_wDSANS2DselnIUM5kR7w)
   - [Mask2former](https://mp.weixin.qq.com/s/apb_oXHoymAmGZCRXU6MQQ)
   - [EMP-SSL](https://mp.weixin.qq.com/s/zaltgHDnv0lmvF-nEydGeA)
+  - [Strip-MLP](https://mp.weixin.qq.com/s/VqKystkqVGHj6anSt2ILPA)
+  - [Meta-Transformer](https://mp.weixin.qq.com/s/bLwAESERks5-YjbQU5Z4xw)
   - [Informer](https://mp.weixin.qq.com/s/OA9P0dW-Xm4iT5j6qk6KuQ)
