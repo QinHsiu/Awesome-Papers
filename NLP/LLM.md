@@ -1,0 +1,70 @@
+- GPT1
+  - 从左向右生成式地构建预训练
+- BERT
+  - 基于掩码机制MLM和下一句预测NSP构建预训练任务，NSP主要是判断前后两句的关系
+  - MLM与N-Gram的区别是其输入的完整的句子，N-Gram输入的是被截断的句子
+  - RoBERT改进MLM为WWM，其mask的是一整个单词
+  - ERNIE-BAIDU改进MLM为ERM，对文本中的整个实体进行mask
+- GPT2
+  - 添加参数量，提出“有监督是无监督的一个子集”，该思想是prompt的前身
+- GPT3
+  - 引入In-context学习（元学习的一种），通过指令名称-国籍来执行预测，是Prompt的前身
+  - 引入Demonstration学习，添加一些新的文本作为提示
+- PET
+  - 《Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference》
+    - Pattern（Template）：记作  ，即上文提到的Template，其为额外添加的带有[mask]标记的短文本，通常一个样本只有一个Pattern（因为我们希望只有1个让模型预测的[mask]标记）。上文也提到，不同的任务、不同的样本可能会有其更加合适的pattern，因此如何构建合适的pattern是Prompt-Tuning的研究点之一 ；
+    - Verbalizer ：记作  ，即标签词的映射，对于具体的分类任务，需要选择指定的标签词（label word）。例如情感分析中，我们期望Verbalizer可能是 ,$$V(positive)=grate,V(negative)=terrible$$（positive和negative是类标签）。同样，不同的任务有其相应的label word，但需要注意的是，Verbalizer的构建需要取决于对应的Pattern。因此如何构建Verbalizer是另一个研究挑战 。上述两个组件被称为Pattern-Verbalizer-Pair（PVP），一般记作 $$P=(\tau,V)$$，在后续的大多数研究中均采用这种PVP组件。
+- Instruct learning
+  - 《Finetuned Language Models Are Zero-Shot Learners》
+  - 激发语言模型的理解能力，给出明确的指令
+- Prompt learning
+  - 激发模型补全的能力，在原始的语句中引入特定的提示文本
+- RLHF
+  - 《Deep Reinforcement Learning from Human Preferences》
+  1. PEFT：Huggingface推出的PEFT库。
+  2. unify-parameter-efficient-tuning：一个参数高效迁移学习的统一框架。
+- InstructGPT/chatGPT
+  - 有监督微调-SFT
+  - 奖励模型-RM
+  - 强化学习-PPO
+- GPT4
+  - 预训练GPT4，并将其训练好的模型作为分类器
+  - 输入prompt、模型答案、人工写的规则（多项选择）
+  - 输出模型分类结果，进行奖励和惩罚
+- 开源模型
+  - BELLE
+    - 代码：https://github.com/LianjiaTech/BELLE
+    - 论文：https://arxiv.org/pdf/2304.07854.pdf
+  - MIniGPT4
+    - 代码：https://github.com/Vision-CAIR/MiniGPT-4
+    - 论文：https://github.com/Vision-CAIR/MiniGPT-4/blob/main/MiniGPT_4.pdf
+  - 分布式并行与显存优化技术
+    - 数据并行（如：PyTorch DDP）
+    - 模型/张量并行（如：Megatron-LM（1D）、Colossal-AI（2D、2.5D、3D））
+    - 流水线并行（如：GPipe、PipeDream、PipeDream-2BW、PipeDream Flush（1F1B））
+    - 多维混合并行（如：3D并行（数据并行、模型并行、流水线并行））
+    - 自动并行（如：Alpa（自动算子内/算子间并行））
+    - 优化器相关的并行（如：ZeRO（零冗余优化器，在执行的逻辑上是数据并行，但可以达到模型并行的显存优化效果）、PyTorch FSDP）
+  - 显存优化技术
+    - 重计算(Recomputation)：Activation checkpointing(Gradient checkpointing)，本质上是一种用时间换空间的策略。
+    - 卸载（Offload）技术：一种用通信换显存的方法，简单来说就是让模型参数、激活值等在CPU内存和GPU显存之间左右横跳。如：ZeRO-Offload、ZeRO-Infinity等。
+  - Prefix Tuning：与full fine-tuning更新所有参数的方式不同，该方法是在输入token之前构造一段任务相关的virtual tokens作为Prefix，然后训练的时候只更新Prefix部分的参数，而Transformer中的其他部分参数固定。该方法其实和构造Prompt类似，只是Prompt是人为构造的“显式”的提示,并且无法更新参数，而Prefix则是可以学习的“隐式”的提示。 同时，为了防止直接更新Prefix的参数导致训练不稳定的情况，他们在Prefix层前面加了MLP结构(相当于将Prefix分解为更小维度的Input与MLP的组合后输出的结果)，训练完成后，只保留Prefix的参数。
+  - Prompt Tuning：该方法可以看作是Prefix Tuning的简化版本，只在输入层加入prompt tokens，并不需要加入MLP进行调整来解决难训练的问题。随着预训练模型参数量的增加，Prompt Tuning的方法会逼近fine-tuning的结果。
+    - 降低语义差异 (Bridge the gap between Pre-training and Fine-tuning)：预训练任务主要以Masked Language Modeling（MLM）为主，而下游任务则重新引入新的训练参数，因此两个阶段的目标通常有较大差异。因此需要解决如何缩小Pre-training和Fine-tuning两个阶段目标差距过大的问题。
+    - 避免过拟合 (Overfitting of the head)：由于在Fine-tuning阶段需要新引入额外的参数以适配相应的任务需要，因此在样本数量有限的情况容易发生过拟合，降低了模型的泛化能力。因此需要面对预训练语言模型的过拟合问题。
+  - Freeze方法：冻结模型部分参数，只是微调其他的参数
+  - P-Tuning：该方法的提出主要是为了解决这样一个问题：大模型的Prompt构造方式严重影响下游任务的效果。P-Tuning将Prompt转换为可以学习的Embedding层，并用MLP+LSTM的方式来对prompt embedding进行一层处理。
+  - P-Tuning v2：让Prompt Tuning能够在不同参数规模的预训练模型、针对不同下游任务的结果上都达到匹敌Fine-tuning的结果。相比Prompt Tuning和P-tuning的方法，P-Tuning v2方法在多层加入了Prompts tokens作为输入，带来两个方面的好处：
+    1. 带来更多可学习的参数（从P-tuning和Prompt Tuning的0.1%增加到0.1%-3%），同时也足够参数高效。
+    2. 加入到更深层结构中的Prompt能给模型预测带来更直接的影响。
+  - Adapter Tuning：该方法设计了Adapter结构（首先是一个down-project层将高维度特征映射到低维特征，然后过一个非线形层之后，再用一个up-project结构将低维特征映射回原来的高维特征；同时也设计了skip-connection结构，确保了在最差的情况下能够退化为identity），并将其嵌入Transformer的结构里面，在训练时，固定住原来预训练模型的参数不变，只对新增的Adapter结构进行微调。同时为了保证训练的高效性（也就是尽可能少的引入更多参数）。
+  - LoRA：在涉及到矩阵相乘的模块，引入A、B这样两个低秩矩阵模块去模拟full fine-tuning的过程，相当于只对语言模型中起关键作用的低秩本质维度进行更新
+    - 《LoRA: Low-Rank Adaptation of Large Language Models》
+    - 论文：[paper](https://arxiv.org/abs/2106.09685)
+    - 代码：[code](https://github.com/microsoft/LoRA)
+    - HuggingFace封装库：[code](https://github.com/huggingface/peft)
+    - 只更新部分参数，减少通信时间，采用精度加速技术（FP16、FP8、INT8量化等）
+- 参考资料
+  - [大模型相关知识](https://mp.weixin.qq.com/s/L5EEiimkomluGRtQHok4bA)
+  - [大模型微调](https://mp.weixin.qq.com/s/M7nqOHl_1pj-QpeGVb5T-A)
+  - [大模型并行训练](https://mp.weixin.qq.com/s/8dQX4YT3HzH6FPXua5U1SA)
