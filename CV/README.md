@@ -77,6 +77,7 @@
   - [[SuperMix][CVPR 21]SuperMix: Supervising the Mixing Data Augmentation](https://arxiv.org/abs/2003.05034)
   - [[AlignMixup][CVPR 22]AlignMix: Improving representation by interpolating aligned features](https://arxiv.org/abs/2103.15375)
   - [[TokenMixup][NeurIPS 22]TokenMixup: Efficient Attention-guided Token-level Data Augmentation for Transformers](https://arxiv.org/abs/2210.07562)
+  
     
 - 解读
   - [2022-top10自监督论文](https://mp.weixin.qq.com/s/AQIWt4deRGnRw3E6msRrig)
@@ -89,3 +90,6 @@
   - [Strip-MLP](https://mp.weixin.qq.com/s/VqKystkqVGHj6anSt2ILPA)
   - [Meta-Transformer](https://mp.weixin.qq.com/s/bLwAESERks5-YjbQU5Z4xw)
   - [Informer](https://mp.weixin.qq.com/s/OA9P0dW-Xm4iT5j6qk6KuQ)
+  - [Pixl-based MIM](https://mp.weixin.qq.com/s/nrljdvvTphS3hXeAEZtOJg)
+  - [多模态机器学习挑战](https://mp.weixin.qq.com/s/F_BRW5PW86fC7kHQqDf_2g)
+  - [自适应视觉transformer](https://mp.weixin.qq.com/s/oVFjpzqACpB2EwYVdHzoUw)
