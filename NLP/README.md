@@ -41,6 +41,7 @@
     - [[LongNet][Arxiv 23]LONGNET: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/pdf/2307.02486.pdf)
 - 评估
     - [[InstructBLIP][Arxi 23]Evaluating Object Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2305.10355) [Code](https://github.com/RUCAIBox/POPE)
+    - [[SmartMoE][USENIX ATC 23]SmartMoE: Efficiently Training Sparsely-Activated Models through Combining Offline and Online Parallelization](https://www.usenix.org/system/files/atc23-zhai.pdf) [Code](https://github.com/zms1999/SmartMoE)
 - 解读
   - [AutoCoT](https://mp.weixin.qq.com/s/9hnjmV-A8SE3_EzQeg85xA)
   - [Prompt](https://mp.weixin.qq.com/s/g1NKoqUhrtwgstDM0GoGxA)
