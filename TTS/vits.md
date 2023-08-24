@@ -33,9 +33,7 @@
   - （1）训练数据要求较为严格（并行数据）；
   - （2）只能转换处于训练集内的音色；
   - 本文通过instance normalization等技术进行音色和内容分离，然后重组音色和内容，达到生产目标音色的目的；关于音色转换的方法主要有两种（基于并行语料的有监督学习和基于非并行语料的无监督学习），其模型结构如上图所示，主要包含四个部分，三个encoder和一个AdaIN（自适应距离标准化），使用该模块将音色信息加入到音频内容信息上，其公式如下所示：
-    
   $$\mu_{c}=\frac{1}{W}\sum^{W}_{\omega=1}M_{c}[\omega],\sigma\limit_{c}=\sqrt{\frac{1}{W}\sum^{W}_{\omega=1}(M_{c}[\omega]-\mu_{c})^{2}+\epsilon}$$
-
   $$M'_{c}[\omega]=\frac{M_{c}[\omega]-\mu}{\sigma_{c}}$$
 c表示第c个channel，W表示权重集合，w表示第w个权重，无仿射变换也即在归一化的时候不加gamma与beta，adaIN中加入了仿射变换（线性变换）
   $$M'_{c}[\omega]=\gamma_{c}\frac{M_{c}[\omega]-\mu}{\sigma_{c}}+\beta_{c}.$$
