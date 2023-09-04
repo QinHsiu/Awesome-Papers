@@ -3,8 +3,8 @@
 - 综述
   - [A Survey on Neural Speech Synthesis](https://arxiv.org/abs/2106.15561)
   - [A deep learning approaches in text-to-speech system:a systematic review and recent research perspective](https://link.springer.com/article/10.1007/s11042-022-13943-4) 
-  - []   
-  - []   
+  - [Text to Speech Synthesis: A Systematic Review, Deep Learning Based Architecture and Future Research Direction](http://www.jait.us/uploadfile/2022/0831/20220831054604906.pdf)   
+  - [A Survey on Audio Diffusion Models: Text To Speech Synthesis and Enhancement in Generative AI](https://arxiv.org/abs/2303.13336)
 
 ### 21年以及之前的文章
 -《Efficient Neural Audio Synthesis》 ICML2018
