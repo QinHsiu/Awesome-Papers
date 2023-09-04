@@ -1,5 +1,10 @@
 ## TTS_vits
 ##### 记录一些关于在vits模型上进行改进的TTS模型，包括论文方法解读、代码资源等；
+- 综述
+  - [A Survey on Neural Speech Synthesis](https://arxiv.org/abs/2106.15561)
+  - [A deep learning approaches in text-to-speech system:a systematic review and recent research perspective](https://link.springer.com/article/10.1007/s11042-022-13943-4) 
+  - []   
+  - []   
 
 ### 21年以及之前的文章
 -《Efficient Neural Audio Synthesis》 ICML2018
