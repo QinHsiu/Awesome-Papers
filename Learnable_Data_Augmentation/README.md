@@ -13,4 +13,5 @@
 - [[AugNet][NeurIPS 22]Deep invariant networks with differentiable augmentation layers](https://arxiv.org/abs/2202.02142)
 - [[TokenMixup][NeurIPS 22]TokenMixup: Efficient Attention-guided Token-level Data Augmentation for Transformers](https://arxiv.org/abs/2210.07562)
 - [[SImGRACE][WWW 22]SimGRACE: A Simple Framework for Graph Contrastive Learning without Data Augmentation](https://arxiv.org/abs/2202.03104)
-- [[L2Aug][WWW 22]Learning to Augment for Casual User Recommendation](https://arxiv.org/abs/2204.00926) 
+- [[L2Aug][WWW 22]Learning to Augment for Casual User Recommendation](https://arxiv.org/abs/2204.00926)
+- [[RQ][ICCV 23]Randomized Quatiozation: A Generic Augmentation for Data Agnostic Self-supervised Learning](https://arxiv.org/abs/2212.08663)
