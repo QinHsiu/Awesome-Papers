@@ -5,3 +5,5 @@
 - [[gCool][WWW 22]Graph Communal Contrastive Learning](https://arxiv.org/abs/2110.14863)
 - [[RSS][WWW 22]Robust Self-Supervised Structural Graph Neural Network for Social Network Prediction](https://dl.acm.org/doi/pdf/10.1145/3485447.3512182)
 - [[SimGRACE][WWW 22]SimGRACE: A Simple Framework for Graph Contrastive Learning without Data Augmentation](https://arxiv.org/abs/2202.03104)
+- 解读
+  - [[Mixup-Explainer][KDD 23]](https://mp.weixin.qq.com/s/8ErPmSbnFlz-gpLO9-p20g)
