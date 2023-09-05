@@ -87,4 +87,5 @@
   - [推荐中的偏差](https://mp.weixin.qq.com/s/e8Axw70TaoDeqlYgbTua8g)
   - [图对比学习用于推荐](https://mp.weixin.qq.com/s/Cb7nIOjPwZvELXeQ0WfxPw)
   - [prompt for Rec](https://dl.acm.org/doi/10.1145/3539618.3591750)
+  - [[DGNN][ICDE 23]](https://mp.weixin.qq.com/s/WoDYELbxjaFE4ftRkNXbBw)
 
