@@ -93,3 +93,4 @@
   - [Pixl-based MIM](https://mp.weixin.qq.com/s/nrljdvvTphS3hXeAEZtOJg)
   - [多模态机器学习挑战](https://mp.weixin.qq.com/s/F_BRW5PW86fC7kHQqDf_2g)
   - [自适应视觉transformer](https://mp.weixin.qq.com/s/oVFjpzqACpB2EwYVdHzoUw)
+  - [[SmartMoE][ATC 23]](https://mp.weixin.qq.com/s/zo-vJjDvjHX_ShLrJmpUcA)
