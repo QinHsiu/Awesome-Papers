@@ -66,6 +66,8 @@
   - [[Distill GNN][WSDM  23]Learning to Distill Graph Neural Networks](http://shichuan.org/doc/144.pdf)
   - [[Unidiffuser][ICML 23]One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale](https://arxiv.org/abs/2303.06555)
   - [[ZeroSeg][Arxiv 23]](https://mp.weixin.qq.com/s/jldbJkJxsC79enM19BvszQ)
+  - [[AS-Vit][Arxiv 23]Adaptive Sparse ViT: Towards Learnable Adaptive Token Pruning by Fully Exploiting Self-Attention](https://arxiv.org/pdf/2209.13802.pdf)
+    
 
 - Mixup
   - [[MixUP][ICLR 18]mixup: BEYOND EMPIRICAL RISK MINIMIZATION](https://arxiv.org/abs/1710.09412)
@@ -94,3 +96,4 @@
   - [多模态机器学习挑战](https://mp.weixin.qq.com/s/F_BRW5PW86fC7kHQqDf_2g)
   - [自适应视觉transformer](https://mp.weixin.qq.com/s/oVFjpzqACpB2EwYVdHzoUw)
   - [[SmartMoE][ATC 23]](https://mp.weixin.qq.com/s/zo-vJjDvjHX_ShLrJmpUcA)
+  - [[多模态挑战][ICML 23]](https://mp.weixin.qq.com/s/F_BRW5PW86fC7kHQqDf_2g)
