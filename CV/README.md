@@ -90,7 +90,7 @@
   - [Strip-MLP](https://mp.weixin.qq.com/s/VqKystkqVGHj6anSt2ILPA)
   - [Meta-Transformer](https://mp.weixin.qq.com/s/bLwAESERks5-YjbQU5Z4xw)
   - [Informer](https://mp.weixin.qq.com/s/OA9P0dW-Xm4iT5j6qk6KuQ)
-  - [Pixl-based MIM](https://mp.weixin.qq.com/s/nrljdvvTphS3hXeAEZtOJg)
+  - [[Pixl-based MIM][ICCV 23]](https://mp.weixin.qq.com/s/nrljdvvTphS3hXeAEZtOJg)
   - [多模态机器学习挑战](https://mp.weixin.qq.com/s/F_BRW5PW86fC7kHQqDf_2g)
   - [自适应视觉transformer](https://mp.weixin.qq.com/s/oVFjpzqACpB2EwYVdHzoUw)
   - [[SmartMoE][ATC 23]](https://mp.weixin.qq.com/s/zo-vJjDvjHX_ShLrJmpUcA)
