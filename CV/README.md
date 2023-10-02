@@ -67,6 +67,7 @@
   - [[Unidiffuser][ICML 23]One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale](https://arxiv.org/abs/2303.06555)
   - [[ZeroSeg][Arxiv 23]](https://mp.weixin.qq.com/s/jldbJkJxsC79enM19BvszQ)
   - [[AS-Vit][Arxiv 23]Adaptive Sparse ViT: Towards Learnable Adaptive Token Pruning by Fully Exploiting Self-Attention](https://arxiv.org/pdf/2209.13802.pdf)
+  - [[SCHaNe][CVPR 23]When hard negative sampling meets supervised contrastive learning](https://arxiv.org/pdf/2308.14893.pdf)
     
 
 - Mixup
