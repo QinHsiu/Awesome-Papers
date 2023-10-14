@@ -68,6 +68,7 @@
   - [[ZeroSeg][Arxiv 23]](https://mp.weixin.qq.com/s/jldbJkJxsC79enM19BvszQ)
   - [[AS-Vit][Arxiv 23]Adaptive Sparse ViT: Towards Learnable Adaptive Token Pruning by Fully Exploiting Self-Attention](https://arxiv.org/pdf/2209.13802.pdf)
   - [[SCHaNe][CVPR 23]When hard negative sampling meets supervised contrastive learning](https://arxiv.org/pdf/2308.14893.pdf)
+  - [[Random Quantization][ICCV 23]](https://arxiv.org/abs/2212.08663) [Note](https://mp.weixin.qq.com/s/zTeP31RxOIjwigGFsUJhdA)
     
 
 - Mixup
