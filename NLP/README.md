@@ -36,6 +36,7 @@
   - [[STEP][KDD 22]Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting](https://arxiv.org/abs/2206.09113)
   
 - LLM训练优化
+    - [[StructGPT][EMNLP 23]StructGPT: A General Framework for Large Language Model to Reason over Structured Data](https://arxiv.org/pdf/2305.09645.pdf)   
     - [[LAWA][Arxiv 23]Understanding the Effectiveness of Early Weight Averaging for Training Large Language Models](https://arxiv.org/pdf/2306.03241.pdf)
     - [[LOMO][Arxiv 23]Full Parameter Fine-tuning for Large Language Models with Limited Resources](https://arxiv.org/abs/2306.09782)
     - [[LongNet][Arxiv 23]LONGNET: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/pdf/2307.02486.pdf)
