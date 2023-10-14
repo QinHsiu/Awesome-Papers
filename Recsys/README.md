@@ -88,4 +88,5 @@
   - [图对比学习用于推荐](https://mp.weixin.qq.com/s/Cb7nIOjPwZvELXeQ0WfxPw)
   - [prompt for Rec](https://dl.acm.org/doi/10.1145/3539618.3591750)
   - [[DGNN][ICDE 23]](https://mp.weixin.qq.com/s/WoDYELbxjaFE4ftRkNXbBw)
+  - [[评价方法][Recsys 23]](arxiv.org/abs/2308.15980) [note](https://mp.weixin.qq.com/s/c2hAFreM9PIR-O257Wr4-w)
 
