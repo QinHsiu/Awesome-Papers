@@ -101,3 +101,5 @@
   - [[研究对比学习][ICML 23]](https://mp.weixin.qq.com/s/1nSt6voqWhYpG2AI5DQuMg)
   - [[SiamMAE][NeurIPS 23]](https://mp.weixin.qq.com/s/t9s2th1O08Jqcpzyw1FEGg)
   - [[多模态挑战][ICML 23]](https://mp.weixin.qq.com/s/F_BRW5PW86fC7kHQqDf_2g)
+  - [[L-MCL][TPAMI 23]Online Knowledge Distillation via Mutual Contrastive Learning for Visual Recognition](https://mp.weixin.qq.com/s/6VJ8gsqfF-21_rQs6Iixlg)
+  - [[DETR]](https://mp.weixin.qq.com/s/Dy__y5MkyFCs3mllYAfqdg)
