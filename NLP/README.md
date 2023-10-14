@@ -40,6 +40,8 @@
     - [[LAWA][Arxiv 23]Understanding the Effectiveness of Early Weight Averaging for Training Large Language Models](https://arxiv.org/pdf/2306.03241.pdf)
     - [[LOMO][Arxiv 23]Full Parameter Fine-tuning for Large Language Models with Limited Resources](https://arxiv.org/abs/2306.09782)
     - [[LongNet][Arxiv 23]LONGNET: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/pdf/2307.02486.pdf)
+ 
+
 - 评估
     - [[InstructBLIP][Arxi 23]Evaluating Object Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2305.10355) [Code](https://github.com/RUCAIBox/POPE)
     - [[SmartMoE][USENIX ATC 23]SmartMoE: Efficiently Training Sparsely-Activated Models through Combining Offline and Online Parallelization](https://www.usenix.org/system/files/atc23-zhai.pdf) [Code](https://github.com/zms1999/SmartMoE)
@@ -47,6 +49,8 @@
   - [AutoCoT](https://mp.weixin.qq.com/s/9hnjmV-A8SE3_EzQeg85xA)
   - [Prompt](https://mp.weixin.qq.com/s/g1NKoqUhrtwgstDM0GoGxA)
   - [LLM](https://mp.weixin.qq.com/s/nxbNueiW6TEdjsQItmnO9A)
+  - [[Large Language Models for User Interest Journeys]](https://mp.weixin.qq.com/s/WLGAhLq61FxMTWKCpSJ0yg)
+  - [[Hydra]](https://github.com/extremebird/Hydra) [note](https://mp.weixin.qq.com/s/xYSU3An7m7pHwwFOuJMFyg)
   - [LLM + 多模态](https://mp.weixin.qq.com/s/Q8SITBzTxlrFDkUleVZHiw)
   - [参数有效性](https://mp.weixin.qq.com/s/sOPxL_Lq4lg3tbIsmEoMuw)
   - [重新思考transformer](https://mp.weixin.qq.com/s/UzxkuZOMWPPFJCgbk9TGwg)
