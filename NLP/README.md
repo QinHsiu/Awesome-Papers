@@ -50,6 +50,7 @@
     - [[LAWA][Arxiv 23]Understanding the Effectiveness of Early Weight Averaging for Training Large Language Models](https://arxiv.org/pdf/2306.03241.pdf)
     - [[LOMO][Arxiv 23]Full Parameter Fine-tuning for Large Language Models with Limited Resources](https://arxiv.org/abs/2306.09782)
     - [[LongNet][Arxiv 23]LONGNET: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/pdf/2307.02486.pdf)
+    
 
  - 自动对齐
    - [Self-Alignment with Instruction Backtranslation](https://arxiv.org/pdf/2308.06259.pdf)
@@ -57,6 +58,9 @@
 - 评估
     - [[InstructBLIP][Arxi 23]Evaluating Object Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2305.10355) [Code](https://github.com/RUCAIBox/POPE)
     - [[SmartMoE][USENIX ATC 23]SmartMoE: Efficiently Training Sparsely-Activated Models through Combining Offline and Online Parallelization](https://www.usenix.org/system/files/atc23-zhai.pdf) [Code](https://github.com/zms1999/SmartMoE)
+
+- 推理
+    - [[LLM使用tensorRT进行推理]](https://mp.weixin.qq.com/s/Sv1B1WbjgeL4mlehsyfLFg)
       
 - 解读
   - [AutoCoT](https://mp.weixin.qq.com/s/9hnjmV-A8SE3_EzQeg85xA)
@@ -80,7 +84,8 @@
   - [[ChatGPT&Agent]](https://mp.weixin.qq.com/s/gxHAPmzd2yzJE6ih4cHijw)
   - [[SFT]](https://mp.weixin.qq.com/s/3RIBzuVlK0qHbO_Q04s-cw)
   - [[大模型推理]](https://mp.weixin.qq.com/s/vRpRmHXGjHjgsr20ktTh5A)
-
+  - [[LLM中的transformer]](https://mp.weixin.qq.com/s/0FWCtXObchkmDXdxdtOsLg)
+  - [[LLM对于任务型对话的作用]](https://mp.weixin.qq.com/s/kkWrEM9moH0DCraXBY4QHA)
     
 - 资源
   - [LLM](http://yqli.tech/page/aigc_llm.html)
