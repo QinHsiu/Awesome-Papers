@@ -17,3 +17,4 @@
 - 图解GRU：[链接](https://mp.weixin.qq.com/s/WO-EBv4lCz5uKZMYU9nwAw)
 - 可逆神经网络：[链接](https://mp.weixin.qq.com/s/ayXIPBXtLc6KhvTEki7Ikg)
 - 卷积网络的压缩：[链接](https://mp.weixin.qq.com/s/wxCsR6hFQN-Evky4JTlNBw)
+- [图注意力机制综述](https://mp.weixin.qq.com/s/YoSSPa074JRAiF2f_AtzCQ)
