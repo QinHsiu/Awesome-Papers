@@ -87,5 +87,6 @@
   - [[LLM中的transformer]](https://mp.weixin.qq.com/s/0FWCtXObchkmDXdxdtOsLg)
   - [[LLM对于任务型对话的作用]](https://mp.weixin.qq.com/s/kkWrEM9moH0DCraXBY4QHA)
   - [Trition官方教程](https://mp.weixin.qq.com/s/ejUcPBZwlY1rgH9DOAMgvg)
+  - [Torch转ONNX](https://mp.weixin.qq.com/s/FKWDKk-YuWJU1GbRFg4HBw)
 - 资源
   - [LLM](http://yqli.tech/page/aigc_llm.html)
