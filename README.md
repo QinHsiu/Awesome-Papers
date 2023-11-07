@@ -18,3 +18,4 @@
 - 可逆神经网络：[链接](https://mp.weixin.qq.com/s/ayXIPBXtLc6KhvTEki7Ikg)
 - 卷积网络的压缩：[链接](https://mp.weixin.qq.com/s/wxCsR6hFQN-Evky4JTlNBw)
 - [图注意力机制综述](https://mp.weixin.qq.com/s/YoSSPa074JRAiF2f_AtzCQ)
+- [多模态机器学习汇总-ICML23](https://mp.weixin.qq.com/s/F_BRW5PW86fC7kHQqDf_2g) [paper](https://arxiv.org/pdf/2209.03430.pdf) [演示文档](https://drive.google.com/file/d/1qIYBuYrSW2-e95DL7LndfLFqGkIWFG21)
