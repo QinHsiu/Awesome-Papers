@@ -24,6 +24,7 @@
   - [序列建模3](https://mp.weixin.qq.com/s/o04b8gN4TYecKHopXGMuVg)
   - [序列建模4](https://mp.weixin.qq.com/s/Vf3A0Mi4jPIhL-d_JBjbfQ)
   - [动态权重](https://mp.weixin.qq.com/s/gphLbCsimD3w-IoWtdz-pg)
+  - [超长序列推荐](https://mp.weixin.qq.com/s/vdxi00LWyDJpJPBOji5Xbw)
 
 
 - Collaborative Filtering
@@ -55,8 +56,8 @@
 - Click  Through Prediction
 - 论文
   - MISS: Multi-Interest Self-Supervised Learning Framework for Click-Through Rate Prediction ICDE2022 [Paper](https://arxiv.org/pdf/2111.15068.pdf) [Note](https://juejin.cn/post/7086067497044017159)
-
   - FinalMLP: An Enhanced Two-Stream MLP Model for CTR Prediction AAAI2023 [Paper](https://arxiv.org/pdf/2304.00902.pdf) [Note](https://juejin.cn/post/7223303364003807269)
+  - [STAN-考虑细粒度建模用户生命周期](https://mp.weixin.qq.com/s/-l4ufvVjJfwIkKizdBNKaA)
 
 - 解读
   - [特征交互用于排序](https://mp.weixin.qq.com/s/veJ2hz89a072zcXFhHRLsg)
@@ -73,8 +74,6 @@
   - Learning Transferable User Representations with Sequential Behaviors via Contrastive Pre-training ICDM2021 [Paper](http://staff.ustc.edu.cn/~qiliuql/files/Publications/Mingyue-Cheng-ICDM21.pdf) [Note](https://juejin.cn/post/7091561156745101348)
   - Pre-training for Recommender System [Paper](https://github.com/QinHsiu/Awesome-Papers/blob/main/Recsys/Pre_train4Rec.pdf) [Note](https://juejin.cn/post/7089983151564390414)
     
-
-
 - Conversation Recommendation
 - 论文
   - C2-CRS: Coarse-to-Fine Contrastive Learning for Conversational Recommender System WSDM2022 [Paper](https://arxiv.org/abs/2201.02732) [Note](https://juejin.cn/post/7183131946208198717)
@@ -87,12 +86,15 @@
   - [负样本](https://mp.weixin.qq.com/s/1ZbafJzx8BSCFwrVp05ngg)
   - [负样本](https://mp.weixin.qq.com/s/MnjeuieYjrtRP_zPT2oM9A)
   - [DreamRec生成式推荐](https://mp.weixin.qq.com/s/pPWbpMhyLx3vtxiVb5ey2g)
+  - [生成式向量召回](https://mp.weixin.qq.com/s/HS-yME00V559B9ZcBCruvw)
   - [Embedding](https://mp.weixin.qq.com/s/1okrVM8zXekCXlCrmhQ9lQ)
   - [MetaRec for CTR](https://mp.weixin.qq.com/s/6DiE5VYJGA_2NAtuSh_okw)
   - [大规模推荐通路集成](https://mp.weixin.qq.com/s/yul31p8GhpxoKPNIEbBsfA)
   - [特征增强&个性化在CTR中的应用](https://mp.weixin.qq.com/s/SBcyx8r7t51BUF2x3PbGxA) [link](https://mp.weixin.qq.com/s/9F3tkQGNhZvBDmutqVcTmg)
   - [多模态技术+推荐](https://mp.weixin.qq.com/s/BEOUFgzNJyzpwVYCwFw44Q)
   - [LLM4Rec前沿汇总](https://mp.weixin.qq.com/s/0Ag9PNSwYbx309O6EI9aMw)
+  - [ControlRec+LLM系统语义差异](https://mp.weixin.qq.com/s/CRbcFZIbtBik0q9vRnaUhQ)
+  - [大模型用于推荐前沿论文](https://mp.weixin.qq.com/s/y1JoXykEZr8USX6O_nXUrA)
   - [推荐中的偏差](https://mp.weixin.qq.com/s/e8Axw70TaoDeqlYgbTua8g)
   - [图对比学习用于推荐](https://mp.weixin.qq.com/s/Cb7nIOjPwZvELXeQ0WfxPw)
   - [prompt for Rec](https://dl.acm.org/doi/10.1145/3539618.3591750)
