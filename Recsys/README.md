@@ -13,6 +13,8 @@
 
   - ELECRec: Training Sequential Recommenders as Discriminators SIGIR2022 [Paper](https://arxiv.org/abs/2204.02011v1) [Note](https://juejin.cn/post/7091846259354370084)
 - 解读
+  - [序列推荐+大模型集合](https://mp.weixin.qq.com/s/HQIGNfGQypk-x7yoYaKcow)
+  - [快手QIN长期序列建模](https://mp.weixin.qq.com/s/91f97netOwmH3gkKUmCADw)
   - [SimHash-CIKM2022](https://mp.weixin.qq.com/s/eG4yQoyGIZdVxhCzvV1gGA)
   - [MoRec-SIGIR2023](https://mp.weixin.qq.com/s/3sErQw_95fKyZkL_LlAqhQ)
   - [dyMuS-AAAI2023](https://mp.weixin.qq.com/s/M8KV3TqA2QYjv2A-PBZEUA)
@@ -48,6 +50,7 @@
 - 解读
   - [腾讯图神经网络+预先训练](https://mp.weixin.qq.com/s/IM6lixoTnnXXt_QDfOBMlQ)
   - [华为预训练](https://mp.weixin.qq.com/s/bAT6Ai4gmN1LOAlTbTaP8A)
+  - [CTRL-对齐协作信号和LLM语义信息进行CTR估计](https://mp.weixin.qq.com/s/-CMZN_LEg1B9iC6RGNOx7Q)
 
 - Click  Through Prediction
 - 论文
@@ -83,7 +86,13 @@
   - [PNPloss](https://mp.weixin.qq.com/s/jFLHBxfvI0ZPWjcI6DE1Gw)
   - [负样本](https://mp.weixin.qq.com/s/1ZbafJzx8BSCFwrVp05ngg)
   - [负样本](https://mp.weixin.qq.com/s/MnjeuieYjrtRP_zPT2oM9A)
+  - [DreamRec生成式推荐](https://mp.weixin.qq.com/s/pPWbpMhyLx3vtxiVb5ey2g)
   - [Embedding](https://mp.weixin.qq.com/s/1okrVM8zXekCXlCrmhQ9lQ)
+  - [MetaRec for CTR](https://mp.weixin.qq.com/s/6DiE5VYJGA_2NAtuSh_okw)
+  - [大规模推荐通路集成](https://mp.weixin.qq.com/s/yul31p8GhpxoKPNIEbBsfA)
+  - [特征增强&个性化在CTR中的应用](https://mp.weixin.qq.com/s/SBcyx8r7t51BUF2x3PbGxA) [link](https://mp.weixin.qq.com/s/9F3tkQGNhZvBDmutqVcTmg)
+  - [多模态技术+推荐](https://mp.weixin.qq.com/s/BEOUFgzNJyzpwVYCwFw44Q)
+  - [LLM4Rec前沿汇总](https://mp.weixin.qq.com/s/0Ag9PNSwYbx309O6EI9aMw)
   - [推荐中的偏差](https://mp.weixin.qq.com/s/e8Axw70TaoDeqlYgbTua8g)
   - [图对比学习用于推荐](https://mp.weixin.qq.com/s/Cb7nIOjPwZvELXeQ0WfxPw)
   - [prompt for Rec](https://dl.acm.org/doi/10.1145/3539618.3591750)
