@@ -63,9 +63,13 @@
     - [[LLM使用tensorRT进行推理]](https://mp.weixin.qq.com/s/Sv1B1WbjgeL4mlehsyfLFg)
       
 - 解读
+  - [Agent LLM](https://mp.weixin.qq.com/s/2olFrmH97lJcYRHggu7Vcg)
+  - [Meta-transformer](https://mp.weixin.qq.com/s/gehtisu2K5GaQnJ86Cd5Mg)
+  - [OPERA-缓解多模态幻觉](https://mp.weixin.qq.com/s/SOnP9quuRXKOB-qImIYLGg)
   - [AutoCoT](https://mp.weixin.qq.com/s/9hnjmV-A8SE3_EzQeg85xA)
   - [Prompt](https://mp.weixin.qq.com/s/g1NKoqUhrtwgstDM0GoGxA)
   - [LLM](https://mp.weixin.qq.com/s/nxbNueiW6TEdjsQItmnO9A)
+  - [多模态与多模态大模型](https://mp.weixin.qq.com/s/2-dYVXZ--OtrYABOxIeStA)
   - [[Large Language Models for User Interest Journeys]](https://mp.weixin.qq.com/s/WLGAhLq61FxMTWKCpSJ0yg)
   - [[Hydra]](https://github.com/extremebird/Hydra) [note](https://mp.weixin.qq.com/s/xYSU3An7m7pHwwFOuJMFyg)
   - [LLM + 多模态](https://mp.weixin.qq.com/s/Q8SITBzTxlrFDkUleVZHiw)
