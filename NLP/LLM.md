@@ -65,9 +65,14 @@
     - HuggingFace封装库：[code](https://github.com/huggingface/peft)
     - 只更新部分参数，减少通信时间，采用精度加速技术（FP16、FP8、INT8量化等）
 - 参考资料
+  - [大模型最新进展](https://mp.weixin.qq.com/s/IkqwITZ_nqnCOAPLX7xv7A)
+  - [大模型在对话上的应用](https://mp.weixin.qq.com/s/K5M8lgiGYnNFxTR2h834cA)
   - [国内外AI大模型](https://mp.weixin.qq.com/s/TR1YzvxaVmrUNgI_8bXgaw)
   - [大模型相关知识](https://mp.weixin.qq.com/s/L5EEiimkomluGRtQHok4bA)
   - [Gemini全面评测](https://mp.weixin.qq.com/s/5AmvpTcGui_woaKgQ_R5cg)
   - [关于LLM的思考](https://mp.weixin.qq.com/s/ham18zLRbUkFQIWvOA3QsQ)
   - [大模型微调](https://mp.weixin.qq.com/s/M7nqOHl_1pj-QpeGVb5T-A)
   - [大模型并行训练](https://mp.weixin.qq.com/s/8dQX4YT3HzH6FPXua5U1SA)
+  - [Cot到Agent最全综述](https://mp.weixin.qq.com/s/aYBrk3X-M32PdohLduCBNw)
+- 代码解读
+  - [LLaMA开源源码分析](https://mp.weixin.qq.com/s/oO7nkY0Fcgd4Y7en3Sx2Xw)
