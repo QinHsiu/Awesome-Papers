@@ -12,6 +12,8 @@
   - Coarse-to-Fine Sparse Sequential Recommendation SIGIR2022 [Paper](https://arxiv.org/pdf/2204.01839.pdf) [Note](https://juejin.cn/post/7087748055637688351)
 
   - ELECRec: Training Sequential Recommenders as Discriminators SIGIR2022 [Paper](https://arxiv.org/abs/2204.02011v1) [Note](https://juejin.cn/post/7091846259354370084)
+
+  - MQSA-TED: Collaboration and Transition: Distilling Item Transitions into Multi-Query Self-Attention for Sequential Recommendation WSDm2024 [Paper](https://arxiv.org/pdf/2311.01056.pdf) 
 - 解读
   - [序列推荐+大模型集合](https://mp.weixin.qq.com/s/HQIGNfGQypk-x7yoYaKcow)
   - [快手QIN长期序列建模](https://mp.weixin.qq.com/s/91f97netOwmH3gkKUmCADw)
