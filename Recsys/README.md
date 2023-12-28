@@ -43,6 +43,9 @@
 
   - ChatRec: Towards Interactive and Explainable LLMs-Augmented Recommender System Arxiv2023 [Paper](https://arxiv.org/pdf/2303.14524.pdf) [Note](https://juejin.cn/post/7224433107775848485)
   - Contrastive Collaborative Filtering for Cold-Start Item Recommendation WWW2023 [paper](https://arxiv.org/pdf/2302.02151.pdf) [Note](https://juejin.cn/post/7230757380819255351)
+  - AgentCF: AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems [Paper](https://arxiv.org/pdf/2310.09233.pdf) 
+  - Collaborative Large Language Model for Recommender Systems [Paper](https://arxiv.org/pdf/2311.01343.pdf)
+  - Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation [Paper](https://arxiv.org/pdf/2311.09049.pdf)
 
 - 解读
   - [图推荐](https://mp.weixin.qq.com/s/BVNxbiHgo0T2vqNUi6RrGQ)
