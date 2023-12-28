@@ -1,5 +1,6 @@
 - Survey
   - Contrastive Self-supervised Learning in Recommender Systems: A Survey [Paper](https://arxiv.org/abs/2303.09902)
+  - Embedding Compression in Recommender Systems: A Survey [Paper](https://dl.acm.org/doi/pdf/10.1145/3637841)
 
 - Sequential Recommendation
 - 论文
@@ -13,7 +14,12 @@
 
   - ELECRec: Training Sequential Recommenders as Discriminators SIGIR2022 [Paper](https://arxiv.org/abs/2204.02011v1) [Note](https://juejin.cn/post/7091846259354370084)
 
-  - MQSA-TED: Collaboration and Transition: Distilling Item Transitions into Multi-Query Self-Attention for Sequential Recommendation WSDm2024 [Paper](https://arxiv.org/pdf/2311.01056.pdf) 
+  - MQSA-TED: Collaboration and Transition: Distilling Item Transitions into Multi-Query Self-Attention for Sequential Recommendation WSDm2024 [Paper](https://arxiv.org/pdf/2311.01056.pdf)
+  - E4SRec: An Elegant Effective Efficient Extensible Solution of Large Language Models for Sequential Recommendation [paper](https://arxiv.org/pdf/2312.02443.pdf)
+  - LLaRA: Aligning Large Language Models with Sequential Recommenders [Paper](https://arxiv.org/pdf/2312.02445.pdf)
+  - Large Language Models for Intent-Driven Session Recommendations [Paper](https://arxiv.org/pdf/2312.07552.pdf)
+  - DRDT: DYNAMIC REFLECTION WITH DIVERGENT THINKING FOR LLM-BASED SEQUENTIAL RECOMMENDATION [Paper](https://arxiv.org/pdf/2312.11336.pdf)
+
 - 解读
   - [序列推荐+大模型集合](https://mp.weixin.qq.com/s/HQIGNfGQypk-x7yoYaKcow)
   - [快手QIN长期序列建模](https://mp.weixin.qq.com/s/91f97netOwmH3gkKUmCADw)
