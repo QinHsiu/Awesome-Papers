@@ -15,5 +15,6 @@
 - [[CGC][WWW 23]Generating Counterfactual Hard Negative Samples for Graph Contrastive Learning](https://arxiv.org/abs/2207.00148)
 - [[CoRR][WWW 23]Cooperative Retriever and Ranker in Deep Recommenders](https://arxiv.org/abs/2206.14649)
 - [[OPAUC][WWW 23]On the Theories Behind Hard Negative Sampling for Recommendation](https://arxiv.org/abs/2302.03472)
+- [[AutoSM]Towards Automatic Sampling of User Behaviors for Sequential Recommender Systems](https://arxiv.org/pdf/2311.00388.pdf)
 
   
