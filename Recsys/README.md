@@ -68,6 +68,8 @@
 - 论文
   - MISS: Multi-Interest Self-Supervised Learning Framework for Click-Through Rate Prediction ICDE2022 [Paper](https://arxiv.org/pdf/2111.15068.pdf) [Note](https://juejin.cn/post/7086067497044017159)
   - FinalMLP: An Enhanced Two-Stream MLP Model for CTR Prediction AAAI2023 [Paper](https://arxiv.org/pdf/2304.00902.pdf) [Note](https://juejin.cn/post/7223303364003807269)
+  - GDCN:Towards Deeper, Lighter and Interpretable Cross Network for
+CTR Prediction CIKM2023 [Paper](https://arxiv.org/pdf/2311.04635.pdf) [Note](https://juejin.cn/post/7322789648600956979)
   - [STAN-考虑细粒度建模用户生命周期](https://mp.weixin.qq.com/s/-l4ufvVjJfwIkKizdBNKaA)
 
 - 解读
