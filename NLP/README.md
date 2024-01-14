@@ -24,6 +24,7 @@
   - [[SelfDebug][Arxiv 23]Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128)
   - [[LLM Survey][Arxiv 23]A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549)
   - [[LLM Self-translate][Arxiv2023]](https://mp.weixin.qq.com/s/KDL61ArerCFEirN53_b5UQ)
+  - [[Hallucination][Arxiv2023]Hallucination augmented contrastive learning for multimodel large language model](https://arxiv.org/pdf/2312.06968.pdf)
 
 - 量化
   - [[Int4][Arxiv 23]Training Transformers with 4-bit Integers](https://arxiv.org/pdf/2306.11987.pdf)
