@@ -1,6 +1,7 @@
 - Survey
   - Contrastive Self-supervised Learning in Recommender Systems: A Survey [Paper](https://arxiv.org/abs/2303.09902)
   - Embedding Compression in Recommender Systems: A Survey [Paper](https://dl.acm.org/doi/pdf/10.1145/3637841)
+  - A survey on cross-domain sequential recommendation [Paper](https://arxiv.org/pdf/2401.04971.pdf)
 
 - Sequential Recommendation
 - 论文
@@ -14,6 +15,10 @@
 
   - ELECRec: Training Sequential Recommenders as Discriminators SIGIR2022 [Paper](https://arxiv.org/abs/2204.02011v1) [Note](https://juejin.cn/post/7091846259354370084)
 
+  - plug-in difussion model for sequential recommendation Arxiv 2023 [Paper](plug-in difussion model for sequential recommendation)
+
+  - rec-ranker: instruction tuning large language model as ranker for topk recommendation Arxiv2023 [Paper](https://arxiv.org/pdf/2312.16018.pdf)
+  - 
   - MQSA-TED: Collaboration and Transition: Distilling Item Transitions into Multi-Query Self-Attention for Sequential Recommendation WSDm2024 [Paper](https://arxiv.org/pdf/2311.01056.pdf)
   - E4SRec: An Elegant Effective Efficient Extensible Solution of Large Language Models for Sequential Recommendation [paper](https://arxiv.org/pdf/2312.02443.pdf)
   - LLaRA: Aligning Large Language Models with Sequential Recommenders [Paper](https://arxiv.org/pdf/2312.02445.pdf)
@@ -52,7 +57,11 @@
   - AgentCF: AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems [Paper](https://arxiv.org/pdf/2310.09233.pdf) 
   - Collaborative Large Language Model for Recommender Systems [Paper](https://arxiv.org/pdf/2311.01343.pdf)
   - Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation [Paper](https://arxiv.org/pdf/2311.09049.pdf)
+  - diffkg: knowledge graph difussion model for recommendation WSDM2024 [Paper](https://arxiv.org/pdf/2312.16890.pdf) ,[Code](https://github.com/HKUDS/DiffKG)
 
+  - towards mitigatng dimensional collapse of representations in collborative Filtering Arxiv2023 [Paper](https://arxiv.org/pdf/2312.17468.pdf)
+  - preliminary study on incremental learning for large language model-based recommendation systems Arxiv2023 [Paper](https://arxiv.org/pdf/2312.15599.pdf
+)
 - 解读
   - [图推荐](https://mp.weixin.qq.com/s/BVNxbiHgo0T2vqNUi6RrGQ)
 
