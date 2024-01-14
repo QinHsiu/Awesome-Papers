@@ -1,5 +1,5 @@
 - 论文
-  - [Dial2vec][EMNLP22][Dial2vec: Self-Guided Contrastive Learning of Unsupervised Dialogue Embeddings](https://arxiv.org/abs/2210.15332v1) [Note](https://juejin.cn/post/7184244058171113509)
+  - [[Dial2vec][EMNLP22][Dial2vec: Self-Guided Contrastive Learning of Unsupervised Dialogue Embeddings]](https://arxiv.org/abs/2210.15332v1) [Note](https://juejin.cn/post/7184244058171113509)
   - [[DisCo][EMNLP23]DisCo: Distilled Student Models Co-training for Semi-supervised Text Mining](https://arxiv.org/abs/2305.12074) [Code](https://github.com/LiteSSLHub/DisCo) [Note](https://mp.weixin.qq.com/s/CK9oB0Vbzcivkz_QtdrJQg)
   - [[COCODR][EMNLP22]COCO-DR: Combating Distribution Shifts in Zero-Shot Dense Retrieval with Contrastive and Distributionally Robust Learning](https://arxiv.org/abs/2210.15212)
   - [[CodeRetriver][EMNLP 22]CodeRetriever: Large-scale Contrastive Pre-training for Code Search](https://arxiv.org/abs/2201.10866)
