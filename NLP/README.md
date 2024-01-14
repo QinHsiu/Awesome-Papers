@@ -1,5 +1,6 @@
 - 论文
-  - Dial2vec: Self-Guided Contrastive Learning of Unsupervised Dialogue Embeddings EMNLP2022 [Paper](https://arxiv.org/abs/2210.15332v1) [Note](https://juejin.cn/post/7184244058171113509)
+  - [Dial2vec][EMNLP22][Dial2vec: Self-Guided Contrastive Learning of Unsupervised Dialogue Embeddings](https://arxiv.org/abs/2210.15332v1) [Note](https://juejin.cn/post/7184244058171113509)
+  - [[DisCo][EMNLP23]DisCo: Distilled Student Models Co-training for Semi-supervised Text Mining](https://arxiv.org/abs/2305.12074) [Code](https://github.com/LiteSSLHub/DisCo) [Note](https://mp.weixin.qq.com/s/CK9oB0Vbzcivkz_QtdrJQg)
   - [[COCODR][EMNLP22]COCO-DR: Combating Distribution Shifts in Zero-Shot Dense Retrieval with Contrastive and Distributionally Robust Learning](https://arxiv.org/abs/2210.15212)
   - [[CodeRetriver][EMNLP 22]CodeRetriever: Large-scale Contrastive Pre-training for Code Search](https://arxiv.org/abs/2201.10866)
   - [[DuReader][EMNLP 22]DuReaderretrieval: A Large-scale Chinese Benchmark for Passage Retrieval from Web Search Engine](https://arxiv.org/abs/2203.10232)
@@ -25,6 +26,7 @@
   - [[LLM Survey][Arxiv 23]A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549)
   - [[LLM Self-translate][Arxiv2023]](https://mp.weixin.qq.com/s/KDL61ArerCFEirN53_b5UQ)
   - [[Hallucination][Arxiv2023]Hallucination augmented contrastive learning for multimodel large language model](https://arxiv.org/pdf/2312.06968.pdf)
+    
 
 - 量化
   - [[Int4][Arxiv 23]Training Transformers with 4-bit Integers](https://arxiv.org/pdf/2306.11987.pdf)
