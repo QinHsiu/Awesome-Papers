@@ -104,6 +104,7 @@ CTR Prediction CIKM2023 [Paper](https://arxiv.org/pdf/2311.04635.pdf) [Note](htt
 - 论文
   - None
 - 解读
+  - [短视频推荐算法](https://mp.weixin.qq.com/s/8CMu88K9I2g4WMJ3Zu6SLw)
   - [推荐综述](https://mp.weixin.qq.com/s/FSP03cwrsoMTxfRAnEOCLQ)
   - [信息茧房](https://mp.weixin.qq.com/s/7d3VmrzBWnSMqd7BED8dTA)
   - [CDN长尾推荐](https://mp.weixin.qq.com/s/LfwLZfzS8UWimeEFELkShA)
@@ -145,4 +146,7 @@ CTR Prediction CIKM2023 [Paper](https://arxiv.org/pdf/2311.04635.pdf) [Note](htt
   - [prompt for Rec](https://dl.acm.org/doi/10.1145/3539618.3591750)
   - [[DGNN][ICDE 23]](https://mp.weixin.qq.com/s/WoDYELbxjaFE4ftRkNXbBw)
   - [[评价方法][Recsys 23]](arxiv.org/abs/2308.15980) [note](https://mp.weixin.qq.com/s/c2hAFreM9PIR-O257Wr4-w)
+- 用户增长算法
+  - [腾讯(大禹投放平台)用户LTV建模技术研究和实践](https://mp.weixin.qq.com/s/3J66DnLkyPXRF_Qqubmezg)
+  - [快手用户增长 LTV 模型及其应用](https://mp.weixin.qq.com/s/h5GDF_9ptrNPRG8pilbI3w)
 
